@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Função para exibir o manual
